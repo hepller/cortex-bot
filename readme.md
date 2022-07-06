@@ -1,5 +1,7 @@
 # 🧠 Cortex Bot ![Release](https://img.shields.io/github/v/release/hepller/cortex-bot)
 
+## ⚠ СТАРЫЙ ПРОЕКТ
+
 > Бот [ВКонтакте](https://vk.com) для генерации сообщений с помощью цепей Маркова
 
 ![Size](https://img.shields.io/github/repo-size/hepller/cortex-bot)
